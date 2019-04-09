@@ -1,7 +1,6 @@
 *.zip
+R/
+R.orig/
 *.log
-__pycache__/
-.idea/
-*.iml
-build/
-venv/
+input.txt
+/.env
